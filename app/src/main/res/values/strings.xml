@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="txtTitle">Convert Currency</string>
+    <string name="ustoeuros">US to Euros</string>
+    <string name="ustopesos">US to Pesos</string>
+    <string name="ustoca">US to Canadian</string>
+    <string name="host">U.S.Dollars</string>
+    <string name="hello_world">Hello World</string>
+    <string name="btnConvert">Convert</string>
+    <string name="action_settings">Settings</string>
+</resources>
